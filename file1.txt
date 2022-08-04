@@ -1,6 +1,6 @@
 Hi Alit
 My name is กิตติพงษ์, from Thailand
-I am on backend team as well
+I am on backend  as well
 I joined the team a couple weeks back.
 My background is actually Python but this project is based on Scala so now, basically, I work and learnin parallel.
 Last but not least, welcome to the team and in case that you have any questions, feel free to reach out to me
